@@ -1,0 +1,120 @@
+File 'cars_9_invalid.csv' has been uploaded succeessfully.
+Car model cannot be empty.
+Uploaded data in this row will be filtered out: 
+Make: Chevrolet, Model: , MPG: 18.0, Cylenders: 8, ModelYear: 70, Origin: US
+Only alphanumeric characters or dashes are allowed for car make.
+Uploaded data in this row will be filtered out: 
+Make: Bui_ck, Model: Skylark 320, MPG: 15.0, Cylenders: 8, ModelYear: 70, Origin: US
+Car cylenders must be an integer.
+Uploaded data in this row will be filtered out: 
+Make: Plymouth, Model: Satellite, MPG: 18.0, Cylenders: 8.1, ModelYear: 701, Origin: Us
+Car cylenders must be an integer.
+Uploaded data in this row will be filtered out: 
+Make: AMC, Model: Rebel SST, MPG: 16.0, Cylenders: a, ModelYear: 70, Origin: US
+Car model year must be a 2-digit number.
+Uploaded data in this row will be filtered out: 
+Make: Chevrolet, Model: Chevelle Malibu, MPG: 18.0, Cylenders: 8, ModelYear: 701, Origin: US
+Car model year must be a 2-digit number.
+Uploaded data in this row will be filtered out: 
+Make: AMC, Model: Rebel SST, MPG: 16.0, Cylenders: 8, ModelYear: 7A, Origin: US
+Car origin must be 'US', 'Europe', or 'Japan'.
+Uploaded data in this row will be filtered out: 
+Make: AMC, Model: Rebel SST, MPG: 16.0, Cylenders: 8, ModelYear: 70, Origin: Usa
+File 'cars_9_invalid.csv' has been uploaded succeessfully.
+Car model cannot be empty.
+Uploaded data in this row will be filtered out: 
+Make: Chevrolet, Model: , MPG: 18.0, Cylenders: 8, ModelYear: 70, Origin: US
+Only alphanumeric characters or dashes are allowed for car make.
+Uploaded data in this row will be filtered out: 
+Make: Bui_ck, Model: Skylark 320, MPG: 15.0, Cylenders: 8, ModelYear: 70, Origin: US
+Car cylenders must be an integer.
+Uploaded data in this row will be filtered out: 
+Make: Plymouth, Model: Satellite, MPG: 18.0, Cylenders: 8.1, ModelYear: 701, Origin: Us
+Car cylenders must be an integer.
+Uploaded data in this row will be filtered out: 
+Make: AMC, Model: Rebel SST, MPG: 16.0, Cylenders: a, ModelYear: 70, Origin: US
+Car model year must be a 2-digit number.
+Uploaded data in this row will be filtered out: 
+Make: Chevrolet, Model: Chevelle Malibu, MPG: 18.0, Cylenders: 8, ModelYear: 701, Origin: US
+Car model year must be a 2-digit number.
+Uploaded data in this row will be filtered out: 
+Make: AMC, Model: Rebel SST, MPG: 16.0, Cylenders: 8, ModelYear: 7A, Origin: US
+Car origin must be 'US', 'Europe', or 'Japan'.
+Uploaded data in this row will be filtered out: 
+Make: AMC, Model: Rebel SST, MPG: 16.0, Cylenders: 8, ModelYear: 70, Origin: Usa
+File 'cars_600.csv' has been uploaded succeessfully.
+Car model cannot be empty.
+Uploaded data in this row will be filtered out: 
+Make: Subaru, Model: , MPG: 26.0, Cylenders: 4, ModelYear: 74, Origin: Japan
+Car model cannot be empty.
+Uploaded data in this row will be filtered out: 
+Make: Subaru, Model: , MPG: 32.3, Cylenders: 4, ModelYear: 81, Origin: Japan
+Car model cannot be empty.
+Uploaded data in this row will be filtered out: 
+Make: Subaru, Model: , MPG: 26.0, Cylenders: 4, ModelYear: 74, Origin: Japan
+File 'cars_9_invalid.csv' has been uploaded succeessfully.
+Car model cannot be empty.
+Uploaded data in this row will be filtered out: 
+Make: Chevrolet, Model: , MPG: 18.0, Cylenders: 8, ModelYear: 70, Origin: US
+Only alphanumeric characters or dashes are allowed for car make.
+Uploaded data in this row will be filtered out: 
+Make: Bui_ck, Model: Skylark 320, MPG: 15.0, Cylenders: 8, ModelYear: 70, Origin: US
+Car cylenders must be an integer.
+Uploaded data in this row will be filtered out: 
+Make: Plymouth, Model: Satellite, MPG: 18.0, Cylenders: 8.1, ModelYear: 701, Origin: Us
+Car cylenders must be an integer.
+Uploaded data in this row will be filtered out: 
+Make: AMC, Model: Rebel SST, MPG: 16.0, Cylenders: a, ModelYear: 70, Origin: US
+Car model year must be a 2-digit number.
+Uploaded data in this row will be filtered out: 
+Make: Chevrolet, Model: Chevelle Malibu, MPG: 18.0, Cylenders: 8, ModelYear: 701, Origin: US
+Car model year must be a 2-digit number.
+Uploaded data in this row will be filtered out: 
+Make: AMC, Model: Rebel SST, MPG: 16.0, Cylenders: 8, ModelYear: 7A, Origin: US
+Car origin must be 'US', 'Europe', or 'Japan'.
+Uploaded data in this row will be filtered out: 
+Make: AMC, Model: Rebel SST, MPG: 16.0, Cylenders: 8, ModelYear: 70, Origin: Usa
+File 'cars_4.csv' has been uploaded succeessfully.
+File 'cars_600.csv' has been uploaded succeessfully.
+Car model cannot be empty.
+Uploaded data in this row will be filtered out: 
+Make: Subaru, Model: , MPG: 26.0, Cylenders: 4, ModelYear: 74, Origin: Japan
+Car model cannot be empty.
+Uploaded data in this row will be filtered out: 
+Make: Subaru, Model: , MPG: 32.3, Cylenders: 4, ModelYear: 81, Origin: Japan
+Car model cannot be empty.
+Uploaded data in this row will be filtered out: 
+Make: Subaru, Model: , MPG: 26.0, Cylenders: 4, ModelYear: 74, Origin: Japan
+
+File 'cars_600.csv' has been uploaded succeessfully.
+Car model cannot be empty.
+Uploaded data in this row will be filtered out: 
+Make: Subaru, Model: , MPG: 26.0, Cylenders: 4, ModelYear: 74, Origin: Japan
+Car model cannot be empty.
+Uploaded data in this row will be filtered out: 
+Make: Subaru, Model: , MPG: 32.3, Cylenders: 4, ModelYear: 81, Origin: Japan
+Car model cannot be empty.
+Uploaded data in this row will be filtered out: 
+Make: Subaru, Model: , MPG: 26.0, Cylenders: 4, ModelYear: 74, Origin: Japan
+File 'cars_600.csv' has been uploaded succeessfully.
+Car model cannot be empty.
+Uploaded data in this row will be filtered out: 
+Make: Subaru, Model: , MPG: 26.0, Cylenders: 4, ModelYear: 74, Origin: Japan
+Car model cannot be empty.
+Uploaded data in this row will be filtered out: 
+Make: Subaru, Model: , MPG: 32.3, Cylenders: 4, ModelYear: 81, Origin: Japan
+Car model cannot be empty.
+Uploaded data in this row will be filtered out: 
+Make: Subaru, Model: , MPG: 26.0, Cylenders: 4, ModelYear: 74, Origin: Japan
+File 'cars_4.csv' has been uploaded succeessfully.
+Failed to upload file ''. Error 4
+File 'cars_600.csv' has been uploaded succeessfully.
+Car model cannot be empty.
+Uploaded data in this row will be filtered out: 
+Make: Subaru, Model: , MPG: 26.0, Cylenders: 4, ModelYear: 74, Origin: Japan
+Car model cannot be empty.
+Uploaded data in this row will be filtered out: 
+Make: Subaru, Model: , MPG: 32.3, Cylenders: 4, ModelYear: 81, Origin: Japan
+Car model cannot be empty.
+Uploaded data in this row will be filtered out: 
+Make: Subaru, Model: , MPG: 26.0, Cylenders: 4, ModelYear: 74, Origin: Japan
